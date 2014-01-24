@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#By wocin
+#Copy from online
 #Email ---
 #speed test use python
 #-------------------I am boring line------------------------------------
