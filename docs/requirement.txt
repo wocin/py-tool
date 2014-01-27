@@ -1,0 +1,5 @@
+Even an application has no module dependencies,it should include an empty requirements.txt
+do document that your app has no denpendencies.
+
+The following command is run on your app to resolve dependencies:
+pip install --use-morrors -r requirements.txt
